@@ -1,0 +1,8 @@
+{
+  "name": "EventSphere AI",
+  "description": "Intelligent event planning, vendor marketplace, booking governance, and budget optimization powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
